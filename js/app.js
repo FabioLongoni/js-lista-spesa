@@ -17,10 +17,10 @@ for (i = 0; i < alimenti.length ; i++) {
 
 }
 
-const listaSpesa1 = document.querySelector('.lista_spesa1')
-console.log(listaSpesa1)
+const listaSpesa1 = document.querySelector('.lista_spesa1');
+console.log(listaSpesa1);
 
-i = 0
+i= 0;
 
 while (i < alimenti.length) {
     let nomeProdotto1 = alimenti[i];
