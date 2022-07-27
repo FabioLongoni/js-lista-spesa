@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 1rem;
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.prodotto {
+    padding: 1rem 0;
+    font-size: 1.5rem;
+}
